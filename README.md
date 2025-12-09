@@ -12,8 +12,10 @@ The next shader that I used was the Toon Shader. I used this shader on Pac-Man h
 <img width="631" height="252" alt="image" src="https://github.com/user-attachments/assets/ece81963-791f-41b9-9ae8-af88745a1460" />
 
 ColourCorrection:
-I was planning on adding ColourCorrection for when the player consumes one of the candies so that you can tell they are in the state of being able to eat the ghosts but didn't have time to get around to it. I did make the LUTs though which are shown below with how they would look
+I was planning on adding ColourCorrection for when the player consumes one of the candies so that you can tell they are in the state of being able to eat the ghosts but didn't have time to finish it. I tried adding everything but couldn't fully figure it out and didn't want to waste all my time on it. I did make the LUT though, which is shown below with how it would look. I also attached my attempt at adding ColourCorrection.
 <img width="1078" height="883" alt="image" src="https://github.com/user-attachments/assets/35cb59d8-febb-41bd-ac2a-986de39f42e7" />
+<img width="959" height="833" alt="image" src="https://github.com/user-attachments/assets/a73a33c4-8e4c-4e78-ac0b-ce26ba91dece" />
+<img width="393" height="124" alt="image" src="https://github.com/user-attachments/assets/f49fd2bb-97da-4179-b236-46bd470be8cb" />
 
 
 **Second Half:**
