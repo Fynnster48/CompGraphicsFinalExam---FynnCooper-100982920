@@ -14,6 +14,10 @@ Transparency:
 I used the transparency shader for the door that the ghosts leave from. For my Transparency shader to look how I wanted, I had to play around with parts of the hologram shader. I removed the lines because I didn't think they suited the door too well, I also adjusted the Transparency range to 2 so that I could make the glow stronger for the door. In the end I like how the door turned out.
 <img width="207" height="133" alt="image" src="https://github.com/user-attachments/assets/c9846979-4415-4552-b4ec-5e3548c98eb7" />
 
+Standard Specular:
+For my walls, I wanted them to just be a matt colour. For this, I thought that specular looked good. I picked a dark blue so it is similair to the actual game but because my project is built in 3d I liked the way the walls turned dark due to lighting with specular. I adjusted the colour in the inspector and changed the multiplier for Smoothness to 1 which made the colour stand out even more. I left the texture slots blank because I thought the blank colour matched the project more, rather than adding some random texture just because I could.
+<img width="1550" height="880" alt="image" src="https://github.com/user-attachments/assets/b4bd9714-6e25-4e6c-8ca8-303817a185f5" />
+
 
 **Hologram:**
 When thinking about where to apply the hologram texture, I settled on the candies in the corner, which allows the player to consume the ghosts. The hologram shader, which has a moving line and transparency, works well here because it draws the player's attention due to the movement, and it is set to a bright colour like candy. As far as adjustments go, I changed the "_Transparency" so that the range is higher to make it more customizable. I also changed the RimIntensity so that it applies more of a strong rim. In the inspector, I changed the speed at which the lines go, and  I also changed their frequency so it fits better with the speed.
