@@ -8,6 +8,12 @@ When creating my scene, I noticed there were empty spots on the left and right o
 ToonShader:
 The next shader that I used was the Toon Shader. I used this shader on Pac-Man himself in order to get the bright yellow colour. In the code, I amplified the rim power to 3 from 1.5 in order to make the rim more powerful without it taking over the model completely. This also makes all the main things you need to look out for standout the most. I then fidgeted with the inspector to get a colour that I thought fit Pac-Man the best. After applying this shader to Pac-Man, I realized that I liked it enough to try and apply it to the ghosts. For each of the ghosts, I adjusted the colour in the inspector so they fit properly, which turned out well in the end.
 <img width="631" height="252" alt="image" src="https://github.com/user-attachments/assets/ece81963-791f-41b9-9ae8-af88745a1460" />
+<img width="1078" height="883" alt="image" src="https://github.com/user-attachments/assets/35cb59d8-febb-41bd-ac2a-986de39f42e7" />
+
+ColourCorrection:
+I was planning on adding ColourCorrection for when the player consumes one of the candies so that you can tell they are in the state of being able to eat the ghosts but didn't have time to get around to it. I did make the LUTs though which are shown below with how they would look
+<img width="1024" height="31" alt="image" src="https://github.com/user-attachments/assets/cf92b1b9-0e48-4d56-b720-8a2ac866ecb9" />
+
 
 **Second Half:**
 Transparency:
