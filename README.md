@@ -30,4 +30,8 @@ When thinking about where to apply the hologram texture, I settled on the candie
 
 
 **Scrolling:**
+For my scrolling texture, I did something similar to the hologram but using the scrolling shader. Using the Scrolling shader, I found a gray line which, when adjusting the Scroll Y spee,d creates a quick pulsing movement for all the small candy that the player can eat. This attracts the player towards the candy so that they can eat everything and accomplish all their goals. I set the MAIN texture to a blank orange colour, which in turn makes the lines orange instead of gray. So by playing with the speed at which the texture scrolls, I was able to accomplish this pulsing movement.
+<img width="1920" height="744" alt="image" src="https://github.com/user-attachments/assets/a10f57a0-0d06-46e0-b110-dbedc9fd8b24" />
+<img width="547" height="374" alt="image" src="https://github.com/user-attachments/assets/1d5423ee-39c5-458d-be8e-3c2b79c758ba" />
+![2025-12-0914-06-00-ezgif com-crop](https://github.com/user-attachments/assets/639a7adb-bde2-4812-84e7-164de0075ca2)
 
