@@ -2,6 +2,7 @@
 
 **Final Project Image**
 <img width="1570" height="888" alt="image" src="https://github.com/user-attachments/assets/c82b2515-f63f-46fa-b728-5f91dd02212e" />
+![2025-12-0914-28-47-ezgif com-crop](https://github.com/user-attachments/assets/da60a0b4-0111-4f91-ad2a-99cca9fa7d5f)
 
 
 **First Half:**
