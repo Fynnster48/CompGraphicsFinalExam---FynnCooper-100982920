@@ -1,5 +1,9 @@
 # CompGraphicsFinalExam
 
+**Final Project Image**
+<img width="1570" height="888" alt="image" src="https://github.com/user-attachments/assets/c82b2515-f63f-46fa-b728-5f91dd02212e" />
+
+
 **First Half:**
 FlatShader: 
 When creating my scene, I noticed there were empty spots on the left and right of the screen where the map doesn't line up. To cover these up, I decided to use a flat shader so it is just black bars on the 2 sides, otherwise it shows the unity backgroun,d which doesnt fit the scene. For the changes I made, I adjusted the base colour in the inspector to change it from a white colour to a black colour.
